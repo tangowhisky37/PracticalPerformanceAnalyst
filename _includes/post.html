@@ -1,0 +1,31 @@
+{% assign post = include.post %}
+
+<article id="post-{{ post.id | slice: 1,9999 }}" class="post{% if include.link_title %} mb6{% endif %}" role="article">
+  <header>
+    <h1 class="post-title">
+      {% if include.link_title %}<a href="{{ post.url | relative_url }}" data-flip="title">{% endif %}
+        {{ post.title }}
+      {% if include.link_title %}</a>{% endif %}
+    </h1>
+
+    <p class="post-date heading">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %b %Y" }}</time>
+      {% include tag-list.html tags=post.categories meta=site.featured_categories start_with="in " separator=" / " %}
+      {% include tag-list.html tags=post.tags meta=site.featured_tags start_with="on " separator=", " %}
+    </p>
+
+    {% include message.html text=post.description %}
+  </header>
+
+  {% unless include.excerpt %}
+    {{ post.content }}
+  {% else %}
+    {{ post.excerpt }}
+    <p class="read-more">Continue reading <a class="heading" href="{{ post.url | relative_url }}" data-flip="title">{{ post.title }}</a></p>
+  {% endunless %}
+
+</article>
+
+{% unless include.link_title %}
+  <hr class="dingbat" />
+{% endunless %}

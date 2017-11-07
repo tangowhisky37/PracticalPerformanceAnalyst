@@ -1,27 +1,129 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# -----------------------------------------------------------------------------
+#  User configuration
+# -----------------------------------------------------------------------------
 
-# Permalinks
-permalink:        pretty
-#relative_permalinks: true
+title:               RaspPiMeetup
 
-# Setup
-title:            SPE BoK
-tagline:          'Body Of Knowledge on Systems Performance Engineering'
-#description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-description:      'Body of Knowledge on Systems Performance Enginering'
-url:              https://tangowhisky37.github.io/PracticalPerformanceAnalyst
-baseurl:          /
+# The unique resource location of your page.
+# Set to `https://<username>.github.io` when hosting on GitHub Pages
+url:                 https://tangowhisky37.github.io
 
+# Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
+# Set to '/<reponame>' when using the `gh-pages` branch of a repository
+baseurl:             /PracticalPerformanceAnalyst
+
+# A very short description of your page
+tagline:             Body Of Knowledge on Systems Performance Engineering
+
+# A short description of the page, used in the sidebar and as fallback for the meta description tag.
+# Markdown enabled, but don't use more than one paragraph (enforced by `>`)
+description:         >
+  Body of Knowledge on Systems Performance Engineering.
+
+# This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:           'Trevor Warren'
-  url:            https://twitter.com/tangowhisky37
+  name:              Trevor Warren
+  email:             trevor@practicalperformanceanalyst.com
 
-paginate:         5
+# Fallback image and color
+image:               /PracticalPerformanceAnalyst/assets/img/nap.jpg
+color:               '#4f86aa'
 
-# Custom vars
-version:          2.1.0
+# The font used for headings. Expects a string that is a valid CSS font-family value.
+font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"
 
-github:
-  repo:           https://github.com/tangowhisky37/PracticalPerformanceAnalyst
+# The text font. Expects a string that is a valid CSS font-family value.
+font:                "'Noto Serif', Georgia, serif"
+
+# The string encoding what fonts to fetch from Google Fonts.
+# See: https://qwtel.com/hydejack/docs/configuration/
+google_fonts:        Roboto+Slab:700|Noto+Serif:400,400i,700,700i
+
+# If you do not use a Google Fonts, uncomment the line below
+# no_google_fonts:     true
+
+# Set your Google Analytics id to receive `pageview` events.
+# To remove Google Anaylics from your page, remove the line below.
+google_analytics:    <UA-XXXXXXXX-X>
+
+# Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
+disqus_shortname:    tw37
+
+# This text will appear in the footer of every page. Markdown enabled.
+copyright:           '&copy; 2017. All rights reserved.'
+
+# Format of the permalinks
+permalink:           pretty
+
+# Pagination configuration (used by the `blog` layout)
+paginate:            5
+paginate_path:       '/page-:num/'
+
+# If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
+# so that the location of the feed XML stays the same.
+# feed:
+#   path:              atom.xml
+
+# Set to true when building with the `--lsi` option
+# See: https://jekyllrb.com/docs/variables/#site-variables
+# use_lsi:             true
+
+# Set to `true` if you don't want to show an icon after each link that opens to an external site
+# no_mark_external:    true
+
+# Uncomment this line if third party plugins fail to work with dynimically loaded pages
+# disable_push_state:  true
+
+# Uncomment this line if want to disable the touch drawer on mobile
+# disable_drawer: true
+
+# -----------------------------------------------------------------------------
+#  Collections
+# -----------------------------------------------------------------------------
+
+collections:
+  featured_categories:
+    permalink:       /category/:name/
+    output:          true
+  featured_tags:
+    permalink:       /tag/:name/
+    output:          true
+  projects:
+    permalink:       /projects/:path/
+    output:          true
+
+# -----------------------------------------------------------------------------
+#  Advanced configuration
+# -----------------------------------------------------------------------------
+
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+exclude:
+  - README.md
+  - LICENSE.md
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+
+kramdown:
+  footnote_backlink: '&#x21a9;&#xfe0e;'
+  math_engine:       mathjax
+  math_engine_opts:
+    preview:         true
+    preview_as_code: true
+
+compress_html:
+  comments:          ["<!-- ", " -->"]
+  clippings:         all
+  endings:           all
+  ignore:
+    envs:            [development]
+
+sass:
+  style:             compressed

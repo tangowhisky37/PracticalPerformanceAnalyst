@@ -1,0 +1,21 @@
+---
+layout: base
+---
+
+{% assign author = site.data.authors[page.author] | default:site.data.authors.first[1] %}
+
+<article class="page" role="article">
+
+  <h1 class="page-title hr" style="padding-bottom:1rem">{{ page.title }}</h1>
+
+  {{ content }}
+
+  {% if author.picture %}
+    {% include srcset-img.html class="me" img=author.picture alt=author.name %}
+  {% endif %}
+  
+  <hr>
+  {{ author.about | markdownify }}
+
+</article>
+

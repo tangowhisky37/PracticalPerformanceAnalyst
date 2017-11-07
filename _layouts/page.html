@@ -1,8 +1,12 @@
 ---
-layout: default
+layout: base
 ---
 
-<div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
+<article class="page" role="article">
+  <header style="margin-bottom:2rem">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {% include message.html text=page.description %}
+  </header>
+
   {{ content }}
-</div>
+</article>

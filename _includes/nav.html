@@ -1,0 +1,16 @@
+<span class="sr-only">Navigation:</span>
+<ul>
+  {% assign pages = site.pages %}
+
+  {% for document in site.documents %}
+    {% assign pages = pages | push: document %}
+  {% endfor %}
+
+  {% assign pages = pages | where: "menu", true | sort: "order" %}
+
+  {% for node in pages %}
+    <li>
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}">{{ node.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
