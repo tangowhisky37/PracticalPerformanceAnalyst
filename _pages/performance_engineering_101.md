@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Performance Engineering 101
+permalink: /spe_fundamentals/performance_engineering_101/
 menu: false
 ---
 
