@@ -5,7 +5,7 @@ menu: true
 order: 5
 ---
 
-Practical Performance Analyst is the face of a movement that aims to bring about awareness on the basic common sense practices associated with Performance Engineering. Practical Performance Analyst is the face of our revolution whose motto is to gather knowledge, share experiences and help other budding Performance Engineers gain the required skills to build applications that perform. At Practical Performance Analyst we need your support to manage the platform, sustain the momentum and give professionals around the world the opportunity to share, collaborate and create repositories of knowledge that can be used to train budding Performance Engineers across organizations globally. So here’s what will you find at the Practical Performance Analyst.
+Practical Performance Analyst is the face of a movement that aims to bring about awareness on the basic common sense practices associated with Systems Performance Engineering. Practical Performance Analyst is the face of our revolution whose motto is to gather knowledge, share experiences and help other budding Performance Engineers gain the required skills to build applications that perform. At Practical Performance Analyst we need your support to manage the platform, sustain the momentum and give professionals around the world the opportunity to share, collaborate and create repositories of knowledge that can be used to train budding Performance Engineers across organizations globally. So here’s what will you find at the Practical Performance Analyst.
 
 * Articles – Articles on your areas of interest, How-to’s, Tool Reviews and Case studies and experiences related to Performance Engineering across the Development Life Cycle. Includes articles on Performance Modelling, Performance Testing, Performance Monitoring, APM, Capacity Planning, Capacity Management, Performance Tuning and Application Diagnostics.
 * iPEN – Educational content to help professionals and organizations build capability in Systems Performance Engineering
@@ -22,3 +22,4 @@ It’s a long journey and as they say every long journey starts with a small ste
 
 Drop us a line, we need your support.
 
+Disclaimer – The content at Practical Performance Analyst is based on collective experiences of all the individuals involved. The authors on this website do not in any way represent their organizations. The opinions expressed at the Practical Performance Analyst are purely the view of the author’s involved and do not have any relevance to the organizations they work for. Practical Performance Analyst and it’s authors do not take responsibility for any damage that you might cause using the information documented here.
