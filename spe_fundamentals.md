@@ -5,16 +5,39 @@ menu: true
 order: 9
 ---
 
-## Melbourne RaspberryPi Hackers Group
+This section will cover the basics of SPE (Systems Performance Engineering). The idea here is to introduce you to the various disciplines associated with Systems Performance Engineering. The intention here isn’t to go into infinite detail but rather provide the reader an overview of the various disciplines Systems Performance Engineering (SPE) covers including a high level view of the associated processes, activities and deliverables.
 
-Melbourne Raspberry Pi Hackers group who's members meet once a month with the objective of sharing, collaborating on interesting Raspberry Pi, Arduino, etc. related projects and hacking together on Open Source / Open Hardware platforms. From time to time  Melbourne Raspberry Pi Hackers conducts tutorials/workshops to get amateurs and newbies started with hacking with the Raspberry Pi and Arduinos.  
+The various topics covered in this section are –
 
-The meetup is open to anyone who has an interest in hacking open source and open hardware. Hackers (budding, amateurs, etc.) with interests in open hardware e.g. Arduino, ESP8266, Raspberry Pi, etc. are invited to bring along their projects and come hack with us at the meetup. 
+* Systems Performance Engineering Fundamentals
+ * Performance Engineering 101
+ * Performance Requirements Analysis
+ * Workload Modelling
+ * Performance Monitoring
+ * Performance Testing
+ * Performance Modelling
+ * Capacity Management
+ * Enterprise Performance Maturity
 
-The meetup is an opportunity to meet with other  open hardware/open source hackers here in Melbourne, to get your questions answered, to show off the work you are doing and get going on those problems that have stalled progress on your hobby projects. Hackers of all ages, including kids and women with interests in open hardware, open source are welcome to the meetup. 
+The next section covers definitions of basic quantities associated with Systems Performance Engineering and introduces the reader to some of essential analytical models and basic equations. All the reader needs to have is an understanding of high school algebra to be able to digest most of the relevant content.
 
-We keep in touch through [Slack](https://melbrpi.slack.com) Slack is a web based platform that provides capability for individual and group chat with many other interesting features that foster collaboration among individuals.If you are keen to hang out and chat about the projects you are working on, get help on issues your facing or just want to hang out and help others with your supreme hacking skills please grab a slack account and join us by clicking on the following link - [Slack Registration](https://melbrpi.herokuapp.com). 
+The various topics covered in this section are –
 
-To learn more about the Melbourne Raspberry Pi Hackers Group please visit [www.meetup.com](https://www.meetup.com/en-AU/Melbourne-Raspberry-Jam/). If you have any questions or need any additional information please drop Trevor Warren a note at `trevor at practical performance analyst dot com` or Rob Conway a note at `rjconway at bigpond dot com`.  
+* Fundamental Performance Quantities, Concepts & Important Formulae
+ * What is Response Time
+ * What is Utilization
+ * What is Throughput
+ * What is Queuing Time
+ * What is Time to First Buffer
+ * What is Service Time
+ * What is Service Demand
+ * What is Think Time
+ * What is Little’s Law
+ * What is Response Time Theory
+ * What Is User Concurrency
+ * What Is Queueing Theory
+ * What Is Universal Scalability Law
 
+Hope you’ve enjoyed the content in this section at Practical Performance Analyst and have learned something new. 
 
+Please help us grow the community by taking a moment and sharing this content with rest of community using your preferred Social Media Platform (links provided below). We would also appreciate you taking a moment to send us your thoughts, inputs and comments by Sending us an email.
