@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).qwtel:
 tangowhisky37:
-  name:              Melbourne Raspberry Pi Hackers Group
+  name:              Practical Performance Analyst
   email:             trevor@practicalperformanceanalyst.com
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -30,7 +30,7 @@ tangowhisky37:
   # Icons appear in order, can be rearranged:
   social:
     # facebook:        <username>
-    twitter:         tangowhisky37
+    #twitter:         tangowhisky37
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -53,7 +53,7 @@ tangowhisky37:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          tangowhisky37
+    #github:          tangowhisky37
     # stackoverflow:   <number/username>
     # npm:             <username>
     
@@ -65,7 +65,7 @@ tangowhisky37:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:meetup@practicalperformanceanalyst.com
+    email:           mailto:trevor@practicalperformanceanalyst.com
     rss:             https://tangowhisky37.github.io/RaspberryPiWorkshop//feed.xml
 
 # Another author
