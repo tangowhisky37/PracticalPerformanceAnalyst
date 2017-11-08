@@ -1,8 +1,8 @@
 ---
 layout: pagelayout
-title: Fundamentals Workshop
+title: SPE Benchmarks
 menu: true
-order: 6
+order: 15
 ---
 
 ## Melbourne RaspberryPi Hackers Group

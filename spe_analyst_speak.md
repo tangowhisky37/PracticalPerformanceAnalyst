@@ -1,8 +1,8 @@
 ---
 layout: pagelayout
-title: Advanced Workshop
+title: SPE Analyst Speak
 menu: true
-order: 7
+order: 14
 ---
 
 ## Melbourne RaspberryPi Hackers Group

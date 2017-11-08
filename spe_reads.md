@@ -1,8 +1,8 @@
 ---
 layout: pagelayout
-title: Where To Buy
+title: SPE Reads
 menu: true
-order: 10
+order: 18
 ---
 
 ## Melbourne RaspberryPi Hackers Group

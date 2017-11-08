@@ -1,8 +1,8 @@
 ---
 layout: pagelayout
-title: Rules & Regulations
+title: SPE BoK
 menu: true
-order: 9
+order: 17
 ---
 
 ## Melbourne RaspberryPi Hackers Group

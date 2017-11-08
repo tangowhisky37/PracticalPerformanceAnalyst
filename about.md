@@ -2,7 +2,7 @@
 layout: pagelayout
 title: About
 menu: true
-order: 5
+order: 8
 ---
 
 Practical Performance Analyst is the face of a movement that aims to bring about awareness on the basic common sense practices associated with Systems Performance Engineering. Practical Performance Analyst is the face of our revolution whose motto is to gather knowledge, share experiences and help other budding Performance Engineers gain the required skills to build applications that perform. At Practical Performance Analyst we need your support to manage the platform, sustain the momentum and give professionals around the world the opportunity to share, collaborate and create repositories of knowledge that can be used to train budding Performance Engineers across organizations globally. So here’s what will you find at the Practical Performance Analyst.

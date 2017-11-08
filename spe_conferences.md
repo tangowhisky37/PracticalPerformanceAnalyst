@@ -1,8 +1,8 @@
 ---
 layout: pagelayout
-title: Meetup Format
+title: SPE Conferences
 menu: true
-order: 8
+order: 16
 ---
 
 ## Melbourne RaspberryPi Hackers Group
