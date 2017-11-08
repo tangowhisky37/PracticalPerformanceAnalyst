@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: pagelayout
 title: About
 menu: true
 order: 8
