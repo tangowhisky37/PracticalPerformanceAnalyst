@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: pagelayout
 title: Performance Engineering 101
-permalink: performanceengineering101.html
 ---
 
 This section will define the concept of Software Performance Engineering and delve into details around Performance Engineering as seen from the eyes of the Practical Performance Analyst (some one like yourself). The topics we intend to cover in this section are –
