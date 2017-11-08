@@ -8,13 +8,8 @@ tangowhisky37:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    The Raspberry Pi is a credit-card-sized computer that plugs into your TV and a keyboard. 
-    It is a capable little computer which can be used in electronics projects, and for many
-    of the things that your desktop PC does, like spreadsheets, word processing, browsing the
-    internet, playing games including playing high-definition video. The Raspberry Pi is being 
-    used by adults and children all over the world to learn programming and digital making. 
-    You can read more about the Raspberry Pi here at [www.raspberrypi.org](www.raspberrypi.org/).
-    
+  Trevor (Warren) is passionate about challenging the status-quo and finding reasons to innovate. Over the past 16 years he has been delivering complex systems, has worked with very large clients across the world and constantly is looking for opportunities to bring about change. Trevor constantly strives to combine his passion for delivering outcomes with his ability to build long lasting professional relationships. You can learn more about the work he does at [LinkedIn](https://au.linkedin.com/in/trevorwarren). You can download a copy of his CV at [VisualCV](https://www.visualcv.com/tangowhisky37). Visit the [Github](https://github.com/tangowhisky37) for details of the projects he's been hacking with.
+
   # This photo will be used in the about section
   picture:
     src:             https://tangowhisky37.github.io/RaspberryPiWorkshop/assets/img/rpi3.png
