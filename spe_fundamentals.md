@@ -10,7 +10,7 @@ This section will cover the basics of SPE (Systems Performance Engineering). The
 The various topics covered in this section are –
 
 * Systems Performance Engineering Fundamentals
-  * [Performance Engineering 101](_pages/performance_engineering_101.md)
+  * [Performance Engineering 101](_pages/performance_engineering_101)
   * Performance Requirements Analysis
   * Workload Modelling
   * Performance Monitoring
