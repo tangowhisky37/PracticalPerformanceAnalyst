@@ -1,6 +1,6 @@
 ---
-layout: pagelayout
-title: About
+layout: page
+title: Performance Engineering 101
 menu: false
 ---
 

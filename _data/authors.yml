@@ -60,14 +60,14 @@ tangowhisky37:
     
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        trevorwarren
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:trevor@practicalperformanceanalyst.com
-    rss:             https://tangowhisky37.github.io/RaspberryPiWorkshop//feed.xml
+    rss:             https://tangowhisky37.github.io/PracticalPerformanceAnalyst/feed.xml
 
 # Another author
 #mdo:
