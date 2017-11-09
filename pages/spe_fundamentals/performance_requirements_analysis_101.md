@@ -1,6 +1,6 @@
 ---
 layout: pagelayout
-title: Performance Engineering 101
+title: Performance Requirements Analysis 101
 ---
 
 This section will delve into the various aspects of Performance Requirements Analysis as seen from the eyes of the Practical Performance Analyst (some one like yourself). The sections will cover the following topics –
