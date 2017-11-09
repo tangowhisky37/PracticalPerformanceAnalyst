@@ -12,7 +12,7 @@ The various topics covered in this section are –
 * Systems Performance Engineering Fundamentals
   * [Performance Engineering 101]({{ "/pages/spe_fundamentals/performance_engineering_101/" | absolute_url }})
   * [Performance Requirements Analysis]({{ "/pages/spe_fundamentals/performance_requirements_analysis_101/" | absolute_url }})
-  * Workload Modelling
+  * [Workload Modelling]({{ "/pages/spe_fundamentals/workload_modelling_101/" | absolute_url }})
   * Performance Monitoring
   * Performance Testing
   * Performance Modelling
