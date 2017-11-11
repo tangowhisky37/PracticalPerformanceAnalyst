@@ -1,6 +1,6 @@
 ---
 layout: pagelayout
-title: Workload Testing 101
+title: Performance Testing 101
 ---
 
 This section will define the concepts of Application Performance Testing and delve into details around Performance Testing as seen from the eyes of the Practical Performance Analyst (some one like yourself). The topics we intend to cover in this section are –
