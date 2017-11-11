@@ -6,8 +6,8 @@ title:               SPE BoK @ PPA
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-#url:                 https://tangowhisky37.github.io
-url:                 http://www2.practicalperformanceanalyst.com
+url:                 https://tangowhisky37.github.io
+#url:                 http://www2.practicalperformanceanalyst.com
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
