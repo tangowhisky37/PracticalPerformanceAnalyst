@@ -1,5 +1,4 @@
 
-# Raspberry Pi Workshop
+# SPE BoK @ Practical Performance Analyst 
 
-This project provides a listing of all the relevant content to run a Raspberry Pi fundamentals workshop. 
-For details visit - https://tangowhisky37.github.io/RaspberryPiWorkshop/
+Visit the website here - [Practical Performance Analyst](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/)
