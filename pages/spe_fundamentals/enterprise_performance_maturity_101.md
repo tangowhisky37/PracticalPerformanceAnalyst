@@ -24,7 +24,7 @@ There are three main aspects of Enterprise Performance Maturity
 * Process Maturity
 * Tool Maturity
 
-![Essential Elements]({{ "/assets/img/people_process_tools.png" | absolute_url }i})
+![Essential Elements]({{ "/assets/img/people_process_tools.png" | absolute_url }})
 
 From a Performance Engineering standpoint it is important that organizations focus on building maturity across these three areas to sustain proactive Performance Management across their development programs. Let’s look at each one of the above areas in slightly more detail –
 
@@ -36,7 +36,7 @@ From a Performance Engineering standpoint it is important that organizations foc
 
 Organizations large and small depend on applications to reach out and support their customers, service or business. In this world of ever increasing application complexity where cloud computing, SaaS, PaaS, Iaas is taking hosting of the platform away from the customer and putting it into the public / private cloud how can you be assured of the performance of your applications. The future is about the cloud, it’s about outsourcing your application platforms to someone who does it really well and staying focussed on what you do well.
 
-![Gartner IT Management Process Maturity]({{ "/assets/img/gartner_it_maturity.png" | absolute_url }i})
+![Gartner IT Management Process Maturity]({{ "/assets/img/gartner_it_maturity.png" | absolute_url }})
 
 In such a situation how do you cope with the challenges of ensuring your applications meet their Non Functional Requirements, what guarantees do you have that your application will meet their Non Functional Requirements when it’s time to go live. Having the right set of tools backed by people and process maturity is one solid risk mitigation approach.
 
