@@ -3,7 +3,7 @@ layout: pagelayout
 title: Capacity Mangement 101
 ---
 
-This section will delve into the various aspects of Capacity Management (also called Capacity Planning) as seen from the eyes of the Practical Performance Analyst (some one like yourself). The sections we intend to cover are -
+This section will delve into the various aspects of Capacity Management (also called Capacity Planning) as seen from the eyes of the Practical Performance Analyst (some one like yourself). The sections we intend to cover are as follows -
 
 * What is Capacity Management
 * Why is Capacity Management Important
