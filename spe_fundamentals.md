@@ -24,19 +24,19 @@ The next section covers definitions of basic quantities associated with Systems 
 The various topics covered in this section are –
 
 * Fundamental Performance Quantities, Concepts & Important Formulae
-  * What is Response Time
-  * What is Utilization
-  * What is Throughput
-  * What is Queuing Time
-  * What is Time to First Buffer
-  * What is Service Time
-  * What is Service Demand
-  * What is Think Time
-  * What is Little’s Law
-  * What is Response Time Theory
-  * What Is User Concurrency
-  * What Is Queueing Theory
-  * What Is Universal Scalability Law
+  * [What is Response Time]({{ "/pages/spe_fundamentals/what_is_response_time/" | absolute_url }})
+  * [What is Utilization]({{ "/pages/spe_fundamentals/what_is_utilization/" | absolute_url }})
+  * [What is Throughput]({{ "/pages/spe_fundamentals/what_is_throughput/" | absolute_url }})
+  * [What is Queuing Time]({{ "/pages/spe_fundamentals/what_is_queuing_time/" | absolute_url }})
+  * [What is Time to First Buffer]({{ "/pages/spe_fundamentals/what_is_time_to_first_buffer/" | absolute_url }})
+  * [What is Service Time]({{ "/pages/spe_fundamentals/what_is_service_time/" | absolute_url }})
+  * [What is Service Demand]({{ "/pages/spe_fundamentals/what_is_service_demand/" | absolute_url }})
+  * [What is Think Time]({{ "/pages/spe_fundamentals/what_is_think_time/" | absolute_url }})
+  * [What is Little’s Law]({{ "/pages/spe_fundamentals/what_is_littles_law/" | absolute_url }})
+  * [What is Response Time Theory]({{ "/pages/spe_fundamentals/what_is_response_time_theory/" | absolute_url }})
+  * [What Is User Concurrency]({{ "/pages/spe_fundamentals/what_is_user_concurrency/" | absolute_url }})
+  * [What Is Queueing Theory]({{ "/pages/spe_fundamentals/what_is_queuing_theory/" | absolute_url }})
+  * [What Is Universal Scalability Law]({{ "/pages/spe_fundamentals/what_is_universal_scalability_law/" | absolute_url }})
 
 Hope you’ve enjoyed the content in this section at Practical Performance Analyst and have learned something new. 
 

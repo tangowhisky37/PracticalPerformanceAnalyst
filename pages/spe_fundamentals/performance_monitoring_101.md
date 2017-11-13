@@ -123,7 +123,7 @@ Here’s a list of challenges we’ve encountered over the years. This isn’t m
 * Large deployment timeframes for some of the enterprise monitoring tools
 * Assess your requirements, tools strengths, vendor capability and enterprise maturity before you go and invest in any solution.
 
-### What are some of the most common tools available for Application Performance Monitoring
+### What are some of the most common tools used for Application Performance Monitoring
 
 There are just too many tools to list here. Your choice of tools i.e. opensource or commercial depends on what you are looking for, the job you need to get done, the performance/features you expecting including the amount of effort you are able to expend to setup/manage the deployment. 
 
