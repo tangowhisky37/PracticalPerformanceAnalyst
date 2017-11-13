@@ -59,6 +59,7 @@ The equation for throughput is defined as:
   <p>
     The above equation comes in very handy when validating performance testing results. The bottleneck equation is also very frequently used to perform back of the envelope calculations for bottleneck and throughput analysis.
   </p>
+</p>
 
 
 ### Additional Resources
