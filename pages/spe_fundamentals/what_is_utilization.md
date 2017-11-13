@@ -36,7 +36,7 @@ The above equation describes Utilization as the product of Throughput and Servic
 
 The equation provided below is very similar to the previous equation but with one subtle difference i.e. the addition of Average Number of Servers (of CPU&#8217;s in our case).
 
-  * U<sub>avg</sub> =Â  [ X * St ] / M &#8230;&#8230;&#8230;&#8230;&#8230;.. [ U<sub>avg</sub> = Average Utilization, X = Throughput, St = Service Time, M = Average Number of Servers  ]
+  * U<sub>avg</sub> =  [ X * St ] / M &#8230;&#8230;&#8230;&#8230;&#8230;.. [ U<sub>avg</sub> = Average Utilization, X = Throughput, St = Service Time, M = Average Number of Servers  ]
 
 On a system with multiple servers (CPUs) the average utilization is obtained by dividing the overall system utilization by the total number of servers (CPUs) present.
 
