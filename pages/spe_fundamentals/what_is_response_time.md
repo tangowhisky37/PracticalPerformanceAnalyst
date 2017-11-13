@@ -15,8 +15,8 @@ Remember, Performance Engineering requires a holistic view of Performance for a 
 
 The basic Response Time Equations are written as:
 
-  * Rt = Wt + St &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.Â  [ Wt = Wait Time, St = Service Time ]  **_also written as_**
-  * Rt = Qt + St  &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.Â  [ Wt = Wait Time, Qt = Queuing Time ]
+  * Rt = Wt + St &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.  [ Wt = Wait Time, St = Service Time ]  **_also written as_**
+  * Rt = Qt + St  &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.  [ Wt = Wait Time, Qt = Queuing Time ]
 
 ### Challenges Capturing Response Times 
 
