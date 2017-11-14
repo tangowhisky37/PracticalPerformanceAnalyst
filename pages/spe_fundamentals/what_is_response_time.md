@@ -34,7 +34,7 @@ Now one can further break down response time at any tier as demonstrated below:
   * Total EAI Server Response Time = Time spent Queuing at Disk + Time spent on Disk IOPS + Time spent Queuing for CPU + Time spent at CPU
   * Total DB Server Response Time = Time spent Queuing at Disk + Time spent on Disk IOPS + Time spent Queuing for CPU + Time spent at CPU
 
-The point we are trying to make here is that **Rt** can be abstracted down to any level depending on the nature of the performance problem you are trying to solve. If all you are concerned about is the overall End User Performance for a given transaction you donâ€™t have to go about measuring time spent by the transaction at each of the 10 Disks across the storage subsystem.
+The point we are trying to make here is that **Rt** can be abstracted down to any level depending on the nature of the performance problem you are trying to solve. If all you are concerned about is the overall End User Performance for a given transaction you dont have to go about measuring time spent by the transaction at each of the 10 Disks across the storage subsystem.
 
 Measuring Response Times externally at the Business Transaction Tier using off the shelf Performance Testing tools or just a simple browser plugin like Firebug works really well. But when it comes to measuring Response Times for the Web Server Tier, Application Server Tier or the Database Server tier things get really complicated. This is simply because todays Performance Testing tools do not have the ability to go into the application and collect Response Times for each of the tiers. 
 
