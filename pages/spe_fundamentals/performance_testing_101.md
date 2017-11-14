@@ -80,7 +80,7 @@ As a Practical Performance Analyst your job as the chief risk mitigation officer
 
 The best approach to minimizing risk across the SDLC is to performance test early and performance test often. However performance testing without a good understanding of the business requirements, the Non Functional Requirements, the business workload, etc. would only lead to useless performance testing results. Performance Testing is an art and there is enough of documentation available around the web to train yourself on becoming a skilful artist and a strong practicing Practical Performance Analyst.
 
-![Workload Modelling Process]({{ "/assets/img/workload_modelling_process.png" | absolute_url }})
+![Performance Testing Modelling Process]({{ "/assets/img/performance_testing_process.png" | absolute_url }})
 
 ### What are the different types of Performance Tests 
 
