@@ -36,23 +36,27 @@ Lets assume we observe a system with 4 CPUs for a period of 1 Hour or 3600 secon
   * C = 500  [ Completions ]
   * M = 4 [ Number of CPUs or Servers ]
 
-  * We know from our fundamental equations : <ul style="list-style-type: circle;">
+  * We know from our fundamental equations :
+  
+   <ul style="list-style-type: circle;">
       <li>
         <strong>St = B / C </strong>.........[ St = Service Time, B = Busy Time, C = Completions ]
       </li>
       <li>
         Therefore : St = 1000 / 500 = 2 seconds
       </li>
-    </ul>
+   </ul>
 
-  * We also know from our fundamental equations: <ul style="list-style-type: circle;">
+  * We also know from our fundamental equations:
+  
+   <ul style="list-style-type: circle;">
       <li>
         <strong>X = C / T </strong>...........[ X = Throughput, C = Completions, T = Total Time of Observation ]
       </li>
       <li>
         X = 500 / 3600 = 0.139 TPS
       </li>
-    </ul>
+   </ul>
 
   * We also know:
       * **U<sub>avg</sub> = [ X * S<sub>t</sub>]** .........[ Uavg = Average Utilization ]
@@ -71,7 +75,9 @@ Lets assume we observe a system with 4 CPUs for a period of 1 Hour or 3600 secon
       * Qt = 2.0 - 2.0  [ St = 2s, Rt = 2.0s)
       * Qt = 0 seconds
 
-  * We also know: <ul style="list-style-type: circle;">
+  * We also know: 
+  
+   <ul style="list-style-type: circle;">
       <li>
         <strong>Q = X * Q<sub>t</sub></strong> [ Q = Queue Length ]
       </li>
@@ -81,7 +87,7 @@ Lets assume we observe a system with 4 CPUs for a period of 1 Hour or 3600 secon
       <li>
         Q = 0
       </li>
-    </ul>
+   </ul>
 
 Thus, using Response Time theory we have figured out that the actual Queue size Per CPU is 0 for the above set of variables.
 
