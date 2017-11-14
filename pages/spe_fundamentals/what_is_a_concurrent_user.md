@@ -12,7 +12,7 @@ We will define User Concurrency or &#8220;_Concurrent User_&#8221; within the re
   * Performance an action or
   * In between performing actions
 
-A Concurrent _User_ is thus defined as a user who is responsible for consumption of compute/network/memory/storage resource simply due to the fact that he/she is logged into the system. This _Concurrent User_ could either be in a state where he/she is performing a given action or is in between performing actions also called as &#8220;[Think Time](http://tangowhisky37.github.io/pages/spe_fundamentals/what-is_think_time/)&#8220;.
+A Concurrent _User_ is thus defined as a user who is responsible for consumption of compute/network/memory/storage resource simply due to the fact that he/she is logged into the system. This _Concurrent User_ could either be in a state where he/she is performing a given action or is in between performing actions also called as &#8220;[Think Time](http://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_fundamentals/what-is_think_time/)&#8220;.
 
 As you&#8217;ve seen _Concurrent Users_ are those that are connected to a system but needn&#8217;t necessarily be performing actions all the time. _Concurrent Users_ are one of the main considerations when designing and building systems from a Non Functional Requirements standpoint.
 
@@ -32,7 +32,7 @@ Named users are generally considered be registered users i.e. users who have reg
 
 Understanding User Concurrency is just the start. Being able to model User Concurrency so that you can convince yourself as a SPE (Systems Performance Engineer) that the Non Functional Requirements business has given you really make sense is highly critical. You obviously, don&#8217;t want to be in a situation where you&#8217;ve assumed the values for User Concurrency that were given to you by business only to figure out 6 months down the line that what the Business intended with User Concurrency was actually Web Server Hits obtained by looking at the Apache Web Server Logs.Â  Systems Performance Engineers and Performance Architects have traditionally used the Operational Theory derivative i.e. Little&#8217;s Law to model User Concurrency.
 
-![Concurrent User]({{ "/assets/img/concurrent_user.png" | absolute_url }})
+![Concurrent User]({{ "/assets/img/concurrent_user.jpg" | absolute_url }})
 
 John Dutton Conant Little, is an Institute Professor at the Massachusetts Institute of Technology, best known for his result in Operations Research, Little&#8217;s Law. Littles law is truly amazing in its simplicity and can be used to describe the most complex of systems including resources within those systems. Using very simple inputs which can be easily obtained by speaking to business and in some cases also obtained from your production environment (i.e. by looking at your analytics t0ols, web server/app server logs, and monitoring tools) you can obtain a view of the various quantities that are required to model User Concurrency.
 
@@ -72,7 +72,7 @@ Littles Law can be applied to the following scenarios:
   * Validate the Sizing Models that your Infrastructure guys have come up with
   * Validate the Non Functional Requirements that your Architects have recommended
 
-To learn more about applying Little&#8217;s Law please visit [Link](http://tangowhisky37.github.io/pages/spe_fundamentals/what_is_littles_law/).
+To learn more about applying Little&#8217;s Law please visit [Link](http://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_fundamentals/what_is_littles_law/).
 
 **Caveats** : When in discussions with customers, business, architects, developers, testers, etc. be clear on your definition of User Concurrency. You&#8217;ll be surprised at the array of definitions out there when it comes to User Concurrency. Your definition of User Concurrency needn&#8217;t necessarily be the same as what we&#8217;ve mentioned above but whatever definition of User Concurrency you use make sure everyone across your organization understands that and that you have performed all your modelling, design, build and validation of performance to meet those requirements so that the system finally is able to meet the expected business volumes.
 
