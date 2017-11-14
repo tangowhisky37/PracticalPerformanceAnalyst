@@ -3,7 +3,7 @@ layout: pagelayout
 title: What Is Littles Law
 ---
 
-Little's law in many ways can be looked at as the foundation of performance. Little's Law helps us understand the reasons why systems bottleneck and provides a simple approach to understand concurrency or user in systems.
+Though Little's law originated as part of Operations Research, Little's law in many ways can be looked at as the foundation of everything we do in the performance world. Little's Law helps us understand the reasons why systems bottleneck and provides a simple approach to understand concurrency or user in systems.
 
 ### Littles Law
 
@@ -17,12 +17,12 @@ Lets take for example the system described above. The notations used include:
   * C - Number of completions
   * X - Throughput or Rate of Departure
   * A - Number of Arrivals
-  * _Î»_ - Rate of Arrival
+  * L (Lambda) - Rate of Arrival
   * Rt - Time spent by Customers within the system
 
-Littles Law basically states that the long-term average number of customers in a stable system _N_ is equal to the long-term average effective arrival rate, _Î»_, multiplied by the average time a customer spends in the system, W or Rt, or expressed algebraically:
+Littles Law basically states that the long-term average number of customers in a stable system _N_ is equal to the long-term average effective arrival rate, L (Lamda) multiplied by the average time a customer spends in the system, W or Rt, or expressed algebraically:
 
-  * N = _Î»_ * Rt &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..  [ N = Number of Users in the System, Rt = Response Time, _Î»_ = Arrival Rate ]
+  * N = L * Rt &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..  [ N = Number of Users in the System, Rt = Response Time, L = Arrival Rate ]
 
 Littles Law can also be stated as:
 
@@ -33,12 +33,10 @@ For a system where Zt (Think Time is Non Zero) Littles Law can be stated as:
   * N = [Rt + Zt] * X  &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..  [ N = Number of Users in the System, Rt = Response Time, Zt = Think Time, X = Throughput ]
 
 <p style="text-align: left;" align="center">
-  <strong>Applying Little&#8217;s Law: </strong> Now that we have just defined Littles Law lets take a look at where we could apply Littles Law and benefit from a better understanding of our systems including user behavior on our existing systems.
+  <strong>Applying Littles Law : </strong> Now that we have just defined Littles Law lets take a look at where we could apply Littles Law and benefit from a better understanding of our systems including user behavior on our existing systems.
 </p>
 
 Littles Law can be applied to the following scenarios:
-
-![Queuing Systems In Real Life]({{ "/assets/img/line_at_starbucks.png" | absolute_url }})
 
   * Model Performance Testing Workload
   * Validate Performance Testing Results
@@ -47,15 +45,15 @@ Littles Law can be applied to the following scenarios:
 
 Lets take a look at a few examples and apply Littles Law to a real world system:
 
-**Example - Determine Concurrent Users Using Littles Law:** A system at peak processes 8000 Transactions/Hour with an average response time of ~5s per transaction. The average Think Time per user is ~30s. What is the number of concurrent users on the system?
+![Queuing Systems In Real Life]({{ "/assets/img/line_at_starbucks.png" | absolute_url }})
 
+* **Example - Determine Concurrent Users Using Littles Law:** A system at peak processes 8000 Transactions/Hour with an average response time of ~5s per transaction. The average Think Time per user is ~30s. What is the number of concurrent users on the system?
   * Throughput or X = 8000/3600 = 2.22 TPS
   * We know: N =  [Rt + Zt] * X  &#8230;&#8230;&#8230;.. [ N = Number of Users in the System, Rt = Response Time, Zt = Think Time, X = Throughput ]
   * Applying the equation: N = [ Rt + Z ] \* X = [ 5 + 30 ] \* 2.22 = 77.7
   * The above system has approximately 77 users at peak driving 8000 Transactions/Hour.
 
-**Example - Validate System Performance Testing Results:** The outcome of a performance test is as follows:
-
+* **Example - Validate System Performance Testing Results:** The outcome of a performance test is as follows:
   * Peak User Concurrency = 1000
   * Average Transactional Response Time = 5s
   * Average User Think Time = 40s
