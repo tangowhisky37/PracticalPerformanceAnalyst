@@ -33,8 +33,8 @@ The various topics covered in this section are –
   * [What is Service Demand]({{ "/pages/spe_fundamentals/what_is_service_demand/" | absolute_url }})
   * [What is Think Time]({{ "/pages/spe_fundamentals/what_is_think_time/" | absolute_url }})
   * [What is Little’s Law]({{ "/pages/spe_fundamentals/what_is_littles_law/" | absolute_url }})
-  * [What is Response Time Theory]({{ "/pages/spe_fundamentals/what_is_response_time_theory/" | absolute_url }})
-  * [What Is User Concurrency]({{ "/pages/spe_fundamentals/what_is_user_concurrency/" | absolute_url }})
+  * [What is Response Time Theory]({{ "/pages/spe_fundamentals/response_time_theory/" | absolute_url }})
+  * [What Is User Concurrency]({{ "/pages/spe_fundamentals/what_is_a_concurrent_user/" | absolute_url }})
   * [What Is Queueing Theory]({{ "/pages/spe_fundamentals/what_is_queuing_theory/" | absolute_url }})
   * [What Is Universal Scalability Law]({{ "/pages/spe_fundamentals/what_is_universal_scalability_law/" | absolute_url }})
 
