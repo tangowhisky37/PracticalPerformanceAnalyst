@@ -74,6 +74,8 @@ ACM SigSoft events and conferences include &#8211;
 
 For more details on SigSoft and the events they support please <a href="http://www.sigsoft.org/" target="_blank">Click Here</a>.
 
+<hr>
+
 ### IFIP WG 7.3 
 
 The IFIP Performance conference aims to bring together researchers interested in understanding and improving the performance of communication systems by means of state-of-the-art quantitative models and solution techniques. The Performance conference has a long-standing tradition and has followed an 18-month cycle for many years. Recently, the interval has been changed to one year.
@@ -81,6 +83,8 @@ The IFIP Performance conference aims to bring together researchers interested in
 ![IFIP]({{ "/assets/img/ifip.png" | absolute_url }})
 
 For more information on the conferences conducted by IFIP WG 7.3 please <a href="http://performance2014.di.unito.it/" target="_blank">Click Here</a>.
+
+<hr>
 
 ### IEEE Conference on High Performance Computing (HiPC)
 
@@ -110,6 +114,8 @@ Topics of interest include but are not limited to:
 
 For more informationÂ on the conferences conducted by HiPC please visit <a href="http://www.hipc.org" target="_blank">Link</a>.
 
+<hr>
+
 ### JAX London 
 
 JAX London starts with the 3-day conference with 34 worldwide known speakers, 65+ insightful sessions and different tracks on current technologies in the field of Java, Web, Mobile and current data technologies, Performance. JAX is aimed at Academic Students, Practitioners. Known as the place where the most respected thinkers and the brightest minds of the tech community meet, JAX London offers a deep dive for the modern developer and architect aiming to transform open technologies into valuable business solutions. We pride ourselves by always focusing on the big picture: Java core, architecture, and web technologies, as well as expert professional insight into the very latest methodologies and best-practices.
@@ -118,6 +124,8 @@ JAX London starts with the 3-day conference with 34 worldwide known speakers, 65
 
 For More Details : Please visit the JAX London 2014 Website atÂ  <a href="http://jaxlondon.com/2014/" target="_blank">http://jaxlondon.com/2014/</a>
 
+<hr>
+
 ### MASCOTS 
 
 The MASCOTS conference is a well-established forum for state-of-the-art research on the measurement, modeling, and performance analysis of computer systems and networks. The 22nd edition of this conference will take place September 9-11, 2014 in Paris, France. The conference will bring together academics and industry practitioners to present and discuss their latest research results. The technical program for the three-day conference will include keynote talks, refereed full and work-in-progress papers, posters, demo papers and tutorials.
@@ -125,6 +133,8 @@ The MASCOTS conference is a well-established forum for state-of-the-art research
 ![MASCOTS]({{ "/assets/img/mascots.jpg" | absolute_url }})
 
 For more information on the conferences conducted by MASCOTS please <a href="http://lipade.math-info.univ-paris5.fr/mascots2014/" target="_blank">Click Here</a>.
+
+<hr>
 
 ### Large Scale Testing 
 
@@ -136,6 +146,8 @@ The Large Scale Testing (LT) Workshop focuses on bringing together practitioners
 
 For more information please <a href="http://lt2014.eecs.yorku.ca/" target="_blank">Click Here</a>.
 
+<hr>
+
 ### OmniTI Surge
 
 Surge started as the brainchild of OmniTI&#8217;s employees wanting to bring the best and brightest in Web Operations to their own backyard. Surge has now become _the_ conference on scalability and performance. This conference focuses on topics related to High Performance, Scalability and Reliability.Â The conference provides an excellent forum where attendees can learn first hand insights and best practices from todayâs brightest minds focused on Web Operations.
@@ -146,6 +158,8 @@ For companies experiencing issues associated with growth and scalability of thei
 
 For more details please <a href="http://surge.omniti.com/" target="_blank">Click Here</a>. You can see the recordings from the previous conferences <a href="https://www.youtube.com/channel/UCZN9ftrBYY4wvCOiz-SgJdQ/feed" target="_blank">here</a>.
 
+<hr>
+
 ### PNSQC - Pacific Northwest Software Quality Conference 
 
 The Pacific Northwest Software Quality Conference (PNSQC) was first launched in 1982 with a mission to enable knowledge exchange to produce higher quality software. The PNSQC seeks increase the awareness of the importance of software quality with broad interaction and exchange of ideas on both proven and leading edge software quality practices by providing education and opportunities for information exchange within the software community. PNSQC provides a two-day technical program and a one-day workshop during conference on wide range of topics such as Agile, Management, Automation, Mobile and Performance.
@@ -155,6 +169,8 @@ The Pacific Northwest Software Quality Conference (PNSQC) was first launched in 
 PNSQC is aimed at Software product managers, quality professionals, Agilists, managers, contractors, consultants, customers, developer-testers, tester-developers, and maintenance engineers.
 
 For More Details please visit the PNSQC 2014 Website at <a href="http://www.pnsqc.org" target="_blank">www.pnsqc.org</a>
+
+<hr>
 
 ### Qcon
 
@@ -167,6 +183,8 @@ QCon&#8217;s conferences bring practitioners together with attendees who influen
 QCon&#8217;s conferences include tracks focused on Architecture, High Scalability and Systems Performance.
 
 For more information please <a href="http://www.qconferences.com/" target="_blank">Click Here</a>.
+
+<hr>
 
 ### RAPIDO 
 
@@ -188,6 +206,8 @@ All these design questions lead to a huge design space that needs to be explored
 
 To learn more about the RAPIDO workshops please <a href="http://www.rapido.deib.polimi.it/" target="_blank">Click Here</a>.
 
+<hr>
+
 ### SuperComputing Conference 
 
 Established in 1988, the annual SC conference continues to grow steadily in size and impact each year. SC has built a diverse community of participants from across the HPC (High Performance Computing) industry including researchers, scientists, application developers, computing center staff and management, computing industry staff, agency program managers, journalists, and congressional staffers. This diversity is one of the conference&#8217;s main strengths, making it a yearly &#8220;must attend&#8221; forum for stakeholders throughout the technicalÂ HPC (High Performance Computing) community.
@@ -198,6 +218,8 @@ The technical program is the heart of SC. It has addressed virtually every area 
 
 For more details on the SuperComputing Conference please <a href="http://supercomputing.org/index.php" target="_blank">Click Here</a>.
 
+<hr>
+
 ### STPCon (Software Test Professionals Conference) 
 
 STPCon or the Software Test Professionals Conference is a conference that brings together professionals in the areas of Functional and Performance Testing with a focus on relevant industry challenges, cutting edge tools, techniques, processes and frameworks.
@@ -205,6 +227,8 @@ STPCon or the Software Test Professionals Conference is a conference that brings
 ![STPCon]({{ "/assets/img/STPcon.png" | absolute_url }})
 
 You can read more about STPCon at <a href="http://www.stpcon.com" target="_blank">Link</a>.
+
+<hr>
 
 ### TPCTC (Technology Conference On Performance Evaluation & Benchmarking)
 
@@ -239,6 +263,8 @@ Topics of interest include, but are not limited to:
 
 You can read more about TPCTP at <a href="http://www.tpc.org/tpctc/" target="_blank">Link</a>.
 
+<hr>
+
 ### ValueTools Conference on Performance Evaluation Methodologies and Tools
 
 ValueTools is a conference that focuses on methodologies and practices in modeling, performance evaluation and optimization of complex systems, gathering researchers from different communities, such as Computer Science, Networks and Telecommunications, Operations Research, Optimization, Control Theory and Manufacturing.
@@ -263,6 +289,8 @@ Topics of focus include:
 
 For more informationÂ on the conferences conducted by ValueTools please <a href="http://valuetools.org" target="_blank">Click Here</a>.
 
+<hr>
+
 ### Oreilly Velocity Web Performance & Operations
 
 Building high performance e-commerce websites is tough. Whether you base them on proprietary platforms (ATG, IBM eCommerce, etc.) or Open Source platforms, very rarely do project teams get it right the first time around. Experience tells us that it generally takes a few iterations, multiple code releases and lots of optimization across the application and infrastructure before the web platform has been optimized to deliver the expected performance.
@@ -277,6 +305,8 @@ In Oreilly&#8217;s own words, &#8220;Velocity is much more than a conference; it
 Through it&#8217;s Velocity Conference Oreilly is aims to bring together some of the best and brightest talent in the IT industry with a focus on Web System Performance and Operational Agility. Velocity conferences are being touted as a great place for web ops and performance professionals to come together, learn from their peers, exchange ideas with experts, and share best practices and lessons learned. Velocity Conferences are currently held in Santa Clara, New York, Beijing, and Spain.
 
 For more information visit Oreilly Velocity Web Performance & Operations at &#8211; <a href="http://velocityconf.com/" target="_blank">Link</a>.
+
+<hr>
 
 ### Workshops On Performance & Reliability (WOPR)
 
@@ -296,6 +326,8 @@ Important but secondary areas of interest include:
 The heart of each workshop session is a series of experiential presentations and group discussions, which focus on the chosen topic for the particular workshop. The atmosphere is collaborative, supportive and constructively critical.&#8221;
 
 For more information on the workshops conducted by WOPR please <a href="http://www.performance-workshop.org/" target="_blank">Click Here</a>.
+
+<hr>
 
 ### WebPerfDays 
 
