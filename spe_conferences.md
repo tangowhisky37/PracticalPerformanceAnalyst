@@ -5,6 +5,10 @@ menu: true
 order: 16
 ---
 
+Over the years with the increasing awareness of system and end user performance a range of conferences have emerged targetting different types of audiences. By far the largest conferences seem to be the ones open to working professionals with interests in various Non Functional aspects of computing including performance. While some of the niche conferences provide platforms for researchers to present cutting edge ideas with regards to desgning, building and delivering systems with focus on specific Non Functional attributes. Other conferences only focus on specific attributes of performance, scalability for given types of systems e.g. HPC (High Performance Computing), etc. 
+
+At this page we've attempted to put together a list of some of the most familiar conferences that we've come across with a primary focus on performance & scalability. 
+
 ### Computer Measurement Group (CMG)
 
 Extract from the CMG Website, &#8220;The Computer Measurement Group is a not-for-profit, worldwide organization of IT professionals committed to sharing information and best practices focused on ensuring the efficiency and scalability of IT service delivery to the enterprise through measurement, quantitative analysis and forecasting. CMG members are primarily concerned with performance evaluation of existing systems to maximize performance (eg. response time, throughput, etc.) and with capacity management where planned enhancements to existing systems or the design of new systems are evaluated to find the necessary resources required to provide adequate performance at a reasonable cost.
