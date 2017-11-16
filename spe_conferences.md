@@ -15,6 +15,8 @@ CMG holds an international technical conference each year in the United States. 
 
 For more information on the conferences conducted by CMG please <a href="http://www.cmg.org" target="_blank">Click Here</a>.
 
+<hr>
+
 ### ACM / SPEC ICPE (International Conference on Performance Engineering)
 
 Extract from the ICPE Website, &#8220;The goal of the International Conference on Performance Engineering (ICPE) is to integrate theory and practice in the field of performance engineering by providing a forum for sharing ideas and experiences between industry and academia. ICPE is established as a joint meeting of the ACM Workshop on Software and Performance (WOSP) and the SPEC International Performance Evaluation Workshop (SIPEW). The conference brings together researchers and industry practitioners to share and present their experiences, discuss challenges, and report state-of-the-art and in-progress research on performance engineering of software and systems, including performance measurement, modeling, benchmark design, and run-time performance management.
@@ -27,6 +29,8 @@ SIPEW was established by the Standard Performance Evaluation Corporation (SPEC) 
 
 For more information on ACM / SPEC ICPE (International Conference on Performance Engineering), please <a href="http://icpe.ipd.kit.edu" target="_blank">Click Here</a>.
 
+<hr>
+
 ### IEEE ISPASS - International Symposium on Performance Analysis of Systems and Software
 
 The IEEE International Symposium on Performance Analysis of Systems and Software is sponsored by the IEEE Computer Society&#8217;s Technical Committee on Internet, Technical Committee on Computer Architecture, and Technical Committee on Microprogramming and Microarchitecture.
@@ -34,6 +38,8 @@ The IEEE International Symposium on Performance Analysis of Systems and Software
 ![ISPASS]({{ "/assets/img/ispass.gif" | absolute_url }})
 
 For more information on IEEE ISPASS, please <a href="http://ispass.org/" target="_blank">Click Here</a>.
+
+<hr>
 
 ### ACM Sigmetrics 
 
@@ -44,6 +50,8 @@ For more information on IEEE ISPASS, please <a href="http://ispass.org/" target=
 Target areas of performance analysis include file and memory systems, database systems, computer networks, operating systems, architecture, distributed systems, fault tolerant systems, and real-time system. In addition, members are interested in developing new performance methodology including mathematical modeling, analysis, instrumentation techniques, model verification and validation, workload characterization, simulation, statistical analysis, stochastic modeling, experimental design, reliability analysis, optimization, and queuing theory.
 
 For more information on the conferences conducted by ACM Sigmetrics please <a href="http://www.sigmetrics.org/" target="_blank">Click Here</a>.
+
+<hr>
 
 ### ACM SigSoft - Special Interest Group On Software Engineering 
 
