@@ -5,7 +5,7 @@ menu: true
 order: 16
 ---
 
-### Computer Measurement Group (CMG
+### Computer Measurement Group (CMG)
 
 Extract from the CMG Website, &#8220;The Computer Measurement Group is a not-for-profit, worldwide organization of IT professionals committed to sharing information and best practices focused on ensuring the efficiency and scalability of IT service delivery to the enterprise through measurement, quantitative analysis and forecasting. CMG members are primarily concerned with performance evaluation of existing systems to maximize performance (eg. response time, throughput, etc.) and with capacity management where planned enhancements to existing systems or the design of new systems are evaluated to find the necessary resources required to provide adequate performance at a reasonable cost.
 
@@ -35,7 +35,7 @@ The IEEE International Symposium on Performance Analysis of Systems and Software
 
 For more information on IEEE ISPASS, please <a href="http://ispass.org/" target="_blank">Click Here</a>.
 
-### ACM Sigmetrics &#8211
+### ACM Sigmetrics 
 
 <a href="http://www.sigmetrics.org" target="_blank">SIGMETRICS</a> is the [ACM](http://www.acm.org) [Special Interest Group](http://www.acm.org/sigs/) (SIG) for the computer systems performance evaluation community. <a href="http://www.sigmetrics.org" target="_blank">SIGMETRICS</a> promotes research in performance analysis techniques as well as the advanced and innovative use of known methods and tools. It sponsors conferences, such as its own annual conference (SIGMETRICS), publishes a newsletter (Performance Evaluation Review), and operates a mailing list linking researchers, students, and practitioners interested in performance evaluation.
 
@@ -142,7 +142,7 @@ For more details please <a href="http://surge.omniti.com/" target="_blank">Click
 
 The Pacific Northwest Software Quality Conference (PNSQC) was first launched in 1982 with a mission to enable knowledge exchange to produce higher quality software. The PNSQC seeks increase the awareness of the importance of software quality with broad interaction and exchange of ideas on both proven and leading edge software quality practices by providing education and opportunities for information exchange within the software community. PNSQC provides a two-day technical program and a one-day workshop during conference on wide range of topics such as Agile, Management, Automation, Mobile and Performance.
 
-![PNSQC]({{ "/assets/img/bridge_to_quality.jpg" | absolute_url }})
+![PNSQC]({{ "/assets/img/bridges_to_quality.jpg" | absolute_url }})
 
 PNSQC is aimed at Software product managers, quality professionals, Agilists, managers, contractors, consultants, customers, developer-testers, tester-developers, and maintenance engineers.
 
@@ -194,7 +194,7 @@ For more details on the SuperComputing Conference please <a href="http://superco
 
 STPCon or the Software Test Professionals Conference is a conference that brings together professionals in the areas of Functional and Performance Testing with a focus on relevant industry challenges, cutting edge tools, techniques, processes and frameworks.
 
-![STPCon]({{ "/assets/img/STPCon.png" | absolute_url }})
+![STPCon]({{ "/assets/img/STPcon.png" | absolute_url }})
 
 You can read more about STPCon at <a href="http://www.stpcon.com" target="_blank">Link</a>.
 
@@ -276,7 +276,7 @@ From the WOPR website, &#8220;WOPR workshops share experiences in system perform
 
 WOPR's primary focus is on evaluating system performance and reliability. This includes performance measurement, load and stress testing, scalability testing, reliability measurement and evaluation, and system and product certification.
 
-![WOPR]({{ "/assets/img/wopr.jpg" | absolute_url }})
+![WOPR]({{ "/assets/img/WOPR.jpg" | absolute_url }})
 
 Important but secondary areas of interest include:
 
