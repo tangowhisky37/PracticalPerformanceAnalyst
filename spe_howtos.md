@@ -25,10 +25,10 @@ How To Library: Putting together all the documentation at Practical Performance 
 
 The list of HOWTO’s we are putting together at Practical Performance Analyst include –
 
-* [HOWTO Create A Performance Budget](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/howto_create_a_performance_budget/)
-* [HOWTO Choose A Performance Testing Tool](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/howto_choose_a_performance_testing_tool/)
-* [HOWTO Build A Career As A Performance Testing Engineer](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/howto_build_a_career_as_a_performance_test_engineer/)
-* [HOWTO Create Non Functional Requirements](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/howto_define_non_functional_requirements/)
+* [HOWTO Create A Performance Budget](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_howtos/howto_create_a_performance_budget/)
+* [HOWTO Choose A Performance Testing Tool](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_howtos/howto_choose_a_performance_testing_tool/)
+* [HOWTO Build A Career As A Performance Testing Engineer](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_howtos/howto_build_a_career_as_a_performance_test_engineer/)
+* [HOWTO Create Non Functional Requirements](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_howtos/howto_define_non_functional_requirements/)
 * HOWTO Choose A Diagnostics and APM Tool
 * HOWTO Create A Performance Testing Approach
 * HOWTO Create A Capacity Management Approach
