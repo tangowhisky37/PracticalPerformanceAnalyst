@@ -7,7 +7,31 @@ order: 16
 
 Over the years with the increasing awareness of system and end user performance a range of conferences have emerged targetting different types of audiences. By far the largest conferences seem to be the ones open to working professionals with interests in various Non Functional aspects of computing including performance. While some of the niche conferences provide platforms for researchers to present cutting edge ideas with regards to desgning, building and delivering systems with focus on specific Non Functional attributes. Other conferences only focus on specific attributes of performance, scalability for given types of systems e.g. HPC (High Performance Computing), etc. 
 
-At this page we've attempted to put together a list of some of the most familiar conferences that we've come across with a primary focus on performance & scalability. 
+At this page we've attempted to put together a list of some of the most familiar conferences that we've come across with a primary focus on performance & scalability. The list of organizations/conferences include - 
+
+* Computer Measurement Group
+* ACM / SPEC ICPE (International Conference on Performance Engineering)
+* IEEE ISPASS - International Symposium on Performance Analysis of Systems and Software
+* ACM Sigmetrics
+* ACM SigSoft - Special Interest Group On Software Engineering 
+* IFIP WG 7.3
+* IEEE Conference on High Performance Computing (HiPC)
+* JAX London
+* MASCOTS
+* Large Scale Testing
+* OmniTI Surge
+* PNSQC - Pacific Northwest Software Quality Conference
+* Qcon
+* RAPIDO
+* SuperComputing Conference
+* STPCon (Software Test Professionals Conference)
+* TPCTC (Technology Conference On Performance Evaluation & Benchmarking)
+* ValueTools Conference on Performance Evaluation Methodologies and Tools
+* Oreilly Velocity Web Performance & Operations
+* Workshops On Performance & Reliability (WOPR)
+* WebPerfDays
+
+Let's now take a brief look at each of the organizations and their conferences below - 
 
 ### Computer Measurement Group (CMG)
 
