@@ -9,7 +9,7 @@ Capacity Management is the discipline that ensures IT infrastructure is provided
 
 You can learn more about Capacity Management at &#8211; <a href="https://tangowhisky37.github.io/PracticalPerformanceAnalyst/spe_fundamentals/" target="_blank">Capacity Management Fundamentals</a>
 
-Provided below is a list of frequently used tools for purposes of Enterprise Capacity Management. At this point this page includes just links to the various tool vendors or websites. Over a period of time we intend to introduce a summary ofÂ different tools, tool reviews including a short description of their strengths and weaknesses to help readers better grasp positioning of the relevant tools and frameworks within the enterprise.
+Provided below is a list of frequently used tools for purposes of Enterprise Capacity Management. At this point this page includes just links to the various tool vendors or websites. Over a period of time we intend to introduce a summary of different tools, tool reviews including a short description of their strengths and weaknesses to help readers better grasp positioning of the relevant tools and frameworks within the enterprise.
 
 <div class="table-responsive">
   <table  style="width:600px; "  class="easy-table easy-table-default " border="0">
@@ -179,5 +179,5 @@ Provided below is a list of frequently used tools for purposes of Enterprise Cap
   </table>
 </div>
 
-Hope you've enjoyed the content in this section at Practical Performance Analyst and have learned something new. Please help us grow the community by taking a moment and sharing this content with rest of community using your preferred Social Media Platform. We would also appreciate you taking a moment to send us your thoughts, inputs and comments byÂ [Sending us an email](mailto:trevor@practicalperformanceanalyst.com?subject=Feedback%20/%20Input%20/%20Comments%20on%20Article%20).
+Hope you've enjoyed the content in this section at Practical Performance Analyst and have learned something new. Please help us grow the community by taking a moment and sharing this content with rest of community using your preferred Social Media Platform. We would also appreciate you taking a moment to send us your thoughts, inputs and comments by [Sending us an email](mailto:trevor@practicalperformanceanalyst.com?subject=Feedback%20/%20Input%20/%20Comments%20on%20Article%20).
 

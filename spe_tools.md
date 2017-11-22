@@ -21,7 +21,7 @@ At this section you will find a list of tools (Commercial & Open Source) used fo
   * [Web Performance Optimization](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_tools/web_performance_optimization/)
   * [SaaS Monitoring Tools](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_tools/saas_monitoring_tools/)
   * [Network Performance Management](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_tools/network_performance_management/)
-  * [Web Analytics](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_tools/web_analytics/)
+  * [Web Analytics](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_tools/website_analytics/)
 
 This list isn’t meant to be exhaustive in nature but should be looked at as guidance with regards to some of most common frameworks in each of the respective areas. At this point this page includes just links to the various tool vendors or websites. Over a period of time we intend to introduce a summary of different tools, tool reviews including a short description of their strengths and weaknesses to help readers better grasp positioning of the relevant tools and frameworks within the enterprise.
 
