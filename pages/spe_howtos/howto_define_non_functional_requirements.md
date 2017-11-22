@@ -46,13 +46,14 @@ Non Functional Requirements are a definition of those attributes of a system tha
 
 Here’s how Wikipedia defines Non Functional Requirements:
 
-_“In systems engineering and requirements engineering, a non-functional requirement is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviors. This should be contrasted with functional requirements that define specific behavior or functions. The plan for implementing functional requirements is detailed in the system design. The plan for implementing non-functional requirements is detailed in the system architecture.
+“In systems engineering and requirements engineering, a non-functional requirement is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviors. This should be contrasted with functional requirements that define specific behavior or functions. The plan for implementing functional requirements is detailed in the system design. The plan for implementing non-functional requirements is detailed in the system architecture.
 
 Broadly, functional requirements define what a system is supposed to do and non-functional requirements define how a system is supposed to be. Functional requirements are usually in the form of “system shall do <requirement>”, an individual action of part of the system, perhaps explicitly in the sense of a mathematical function, a black box description input, output, process and control functional model or IPO Model. In contrast, non-functional requirements are in the form of “system shall be <requirement>”, an overall property of the system as a whole or of a particular aspect and not a specific function. The systems’ overall properties commonly mark the difference between whether the development project has succeeded or failed.
 
 Non-functional requirements are often called qualities of a system. Other terms for non-functional requirements are “constraints”, “quality attributes”, “quality goals”, “quality of service requirements” and “non-behavioral requirements”. Informally these are sometimes called the “ilities”, from attributes like stability and portability. Qualities, that is non-functional requirements, can be divided into two main categories:
+
 * Execution qualities, such as security and usability, which are observable at run time.
-* Evolution qualities, such as testability, maintainability, extensibility and scalability, which are embodied in the static structure of the software system.”_
+* Evolution qualities, such as testability, maintainability, extensibility and scalability, which are embodied in the static structure of the software system.”
 
 You can read more about Non Functional Requirements at the following Wikipedia [link](http://en.wikipedia.org/wiki/Non-functional_requirement)
 
