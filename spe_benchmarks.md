@@ -103,10 +103,10 @@ With all the caveats above you are probably wondering if Manufacturers design th
 
 Learning more about any of these benchmarks is easy. Visit the links provided below to understand what each of the organizations offer and what benchmarks they provide. The specifications and details for RPE2 used to be a lot more openly available until Gartner purchased Ideas International (Owner of the RPE2 benchmark). However details for the various TPC and SPEC benchmarks are available for everyone to see.
 
-* [TPC](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_benchmarks/TPC_Benchmarks.md) 
-* [SPEC](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_benchmarks/SPEC_Benchmarks.md) 
-* [RPE2](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_benchmarks/RPE2_Benchmarks.md) 
-* [SAPS](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_benchmarks/SAPS_Benchmarks.md) 
-* [Miscelleanous](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_benchmarks/MISC_Benchmarks.md) 
+* [TPC](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_benchmarks/TPC_Benchmarks/) 
+* [SPEC](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_benchmarks/SPEC_Benchmarks/) 
+* [RPE2](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_benchmarks/RPE2_Benchmarks/) 
+* [SAPS](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_benchmarks/SAPS_Benchmarks/) 
+* [Miscelleanous](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_benchmarks/MISC_Benchmarks/) 
 
 The information provided here at SPE Benchmarks is meant to get you started with the world of benchmarking groups/platforms and the various types of benchmarks each of them run. For currency of a given benchmark and updates specifications/results please visit the relevant vendor website. 
