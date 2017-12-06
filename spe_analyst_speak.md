@@ -32,8 +32,8 @@ Some of the research report summaries covered here are &#8211;
 * 2015 
   * Application Performance Monitoring &#8211; [Gartner Guide for Application Performance Monitoring](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_analyst_speak/gartner_magic_quadrant_for_application_performance_monitoring_2015/)
   * Network Performance Monitoring &#8211; [Gartner Guide For Network Performance Monitoring](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_analyst_speak/gartner_magic_quadrant_for_network_performance_monitoring_2015/) 
-  * Capacity Management &#8211; [Gartner Guide For Capacity Management](http://www1.practicalperformanceanalyst.com/gartner-guide-for-capacity-management-cm-2015-part-i/)
-  * Performance Testing &#8211; [Gartner Guide for Performance Testing](http://www1.practicalperformanceanalyst.com/spe-analyst-speak/gartner-guide-for-performance-testing-tools-2015-part-i/)
+  * Capacity Management &#8211; [Gartner Guide For Capacity Management](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_analyst_speak/gartner_guide_for_capacity_management_2015/) 
+  * Performance Testing &#8211; [Gartner Guide for Performance Testing](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_analyst_speak/gartner_guide_for_performance_testing_2015/) 
 * 2016
 
 We hope you enjoy the content here at SPE Analyst Speak here at Practical Performance Analyst. Please drop us a note at speanalystspeak at practical performance analyst with your input, comments and feedback.
