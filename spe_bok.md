@@ -15,7 +15,7 @@ Simply speaking, Performance Engineering is the art and science of building syst
 
 The Performance Engineering framework does not intend to be everything for everyone instead it aims to be a set of best practice recommendations for Proactive Performance Management that organizations could implement towards ensuring that they have fewer Performance & Capacity issues to address at the end of the SDLC. Thus reducing waste and optimizing investment of resources across the Software Development Life Cycle.
 
-### So why create a Body Of Knowledge
+### So Why Create A Body Of Knowledge
 
 The practices of Software Engineering, Software Performance Engineering and Proactive Performance Management have existed for decades. In more ways that one, the seeds of Proactive Performance Management were sown by Dr. Connie Smith in her initial book on Software Performance Engineering titled, “Performance Engineering of Software Systems, The SEI Series“. The concept of designing, building and delivering applications that scale have existed informally for decades. However, over the last couple of decades:
 
@@ -29,9 +29,11 @@ As professionals with interests in Performance Engineering and Proactive Perform
 
 ### Who Can Contribute
 
-Our aim is to open up the PE BoK to a larger group of individuals, professionals, academics, researchers and organizations. This will happen once we’ve have laid the foundation and have the basic building blocks in place. For further information reach out to the individuals below.
+Our aim is to open up the PE BoK to a larger group of individuals, professionals, academics, researchers and organizations. This will happen once we’ve have laid the foundation and have the basic building blocks in place. For further information drop me a note at trevor at practical performance analyst dot com.
 
-What initiatives will the PE BoK group focus on –  The initiatives the Performance Engineering Body Of Knowledge will focus on includes:
+### What Initiatives Will The SPE BoK Focus On
+
+The initiatives the Performance Engineering Body Of Knowledge will focus on includes:
 
 * Career Development Framework – Framework recommending career roadmap options for professionals with interests in Performance Engineering
 * Process Definition Framework – Framework recommending Activities, Processes, Roles, Responsibilities & Deliverables across the SDLC with a focus on Performance
