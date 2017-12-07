@@ -64,7 +64,7 @@ TPC-DS is TPC's decision support benchmark that models several generally applica
   </li>
 </ul>
 
-To see additional benchmark details and results please Â <a href="http://www.tpc.org/tpcds/default.asp" target="_blank">Click Here</a>.
+To see additional benchmark details and results please <a href="http://www.tpc.org/tpcds/default.asp" target="_blank">Click Here</a>.
 
 ### TPC-E (Source : tpc.org)
 
@@ -110,5 +110,5 @@ The TPC-Energy Specification contains the rules and methodology for measuring an
 
 The measuring and publishing of the TPC-Energy Metrics in the TPC Benchmarks are optional and are not required to publish a TPC Result.
 
-To see additional benchmark details and results please Â <a href="http://www.tpc.org/tpc_energy/default.asp" target="_blank">Click Here</a>.
+To see additional benchmark details and results please <a href="http://www.tpc.org/tpc_energy/default.asp" target="_blank">Click Here</a>.
 

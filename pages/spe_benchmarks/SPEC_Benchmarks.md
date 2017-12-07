@@ -43,7 +43,7 @@ The drive to create the power and performance benchmark came from the recognitio
 
 The workload exercises the CPUs, caches, memory hierarchy and the scalability of shared memory processors (SMPs) as well as the implementations of the JVM (Java Virtual Machine), JIT (Just-In-Time) compiler, garbage collection, threads and some aspects of the operating system. The benchmark runs on a wide variety of operating systems and hardware architectures and should not require extensive client or storage infrastructure.
 
-To see additional benchmark details and results pleaseÂ  <a href="http://spec.org/power_ssj2008/results/" target="_blank">Click Here</a>.
+To see additional benchmark details and results please  <a href="http://spec.org/power_ssj2008/results/" target="_blank">Click Here</a>.
 
 ### SPEC VIRT (Source : spec.org) 
 

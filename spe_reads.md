@@ -10,7 +10,7 @@ order: 18
 Here's a list of the recommended reads from an SPE (Systems Performance Engineering) standpoint. These reccommendations have been put together based on input from various readers including our own experiences picking up the relevant concepts over the last ~20 years. This isn't meant to be an exhaustive list but rather a list of all the important books which you might want to consider in any of the given areas when building up concepts and needing to deliver work in those areas. 
 
 * Systems Performance Engineering
-* [Web Performance Optimization](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/web_performance_optimization/)
+* [Web Performance Optimization](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/website_performance_optimization/)
 * Java Performance Optimization
 * .Net Performance Optimization
 * Oracle Performance Optimization
