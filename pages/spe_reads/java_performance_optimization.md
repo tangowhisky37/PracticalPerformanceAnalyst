@@ -3,7 +3,7 @@ layout: pagelayout
 title: Books - Java Performance Optimization
 ---
 
-The books listed on this page focus on the art of Website Performance Optimization. 
+The books listed on this page focus on the art of Java Performance Optimization. 
 
 <table>
 <tr>

@@ -12,16 +12,16 @@ Here's a list of the recommended reads from an SPE (Systems Performance Engineer
 * [Systems Performance Engineering](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/systems_performance_engineering/)
 * [Web Performance Optimization](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/website_performance_optimization/)
 * [Java Performance Optimization](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/java_performance_optimization/)
-* .Net Performance Optimization
+* [.Net Performance Optimization](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/dotnet_performance_optimization/)
 * Oracle Performance Optimization
-* Linux Performance Optimization
+* [Linux Performance Optimization](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/linux_performance_optimization/)
 * Application Performance Monitoring (APM)
 * MySQL Performance Optimization
 * MSSQL Performance Optimization
 * DB2 Performance Optimization
-* Performance Modelling & Forecasting
+* [Performance Modelling & Forecasting](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/performance_modelling_and_forecasting/)
 * Capacity Planning & Capacity Management
-* Performance Testing
+* [Performance Testing](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/performance_testing/)
 * Systems Monitoring & Alerting
 * Scalable Architectures
 * Fundamentals of R

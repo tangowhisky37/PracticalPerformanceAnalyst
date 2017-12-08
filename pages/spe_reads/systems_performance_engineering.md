@@ -3,7 +3,7 @@ layout: pagelayout
 title: Books - Systems Performance Engineering
 ---
 
-The books listed on this page focus on the art of Website Performance Optimization. 
+The books listed on this page focus on the art of Systems Performance Engineering. 
 
 <table>
 <tr>
