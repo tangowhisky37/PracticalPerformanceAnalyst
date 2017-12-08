@@ -41,7 +41,8 @@ The books listed on this page focus on the art of Performance Modelling & Foreca
 <a target="_blank"  href="https://www.amazon.com/gp/product/0691140626/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691140626&linkCode=as2&tag=practperfoana-20&linkId=9e71aa108f51e0f0ac0bd9105c5dad02"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0691140626&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=practperfoana-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=practperfoana-20&l=am2&o=1&a=0691140626" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </td>
 </tr>
-<a target="_blank"  href="https://www.amazon.com/gp/product/0321833821/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321833821&linkCode=as2&tag=practperfoana-20&linkId=e8972f8b8efbf9ef703784573a6bf583"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0321833821&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=practperfoana-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=practperfoana-20&l=am2&o=1&a=0321833821" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
 <tr>
 <td
 <a target="_blank"  href="https://www.amazon.com/gp/product/0471491101/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0471491101&linkCode=as2&tag=practperfoana-20&linkId=53a4b9d244b9500098bf3e36b037a8f1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0471491101&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=practperfoana-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=practperfoana-20&l=am2&o=1&a=0471491101" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -63,7 +64,7 @@ The books listed on this page focus on the art of Performance Modelling & Foreca
 <a target="_blank"  href="https://www.amazon.com/gp/product/8126546387/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8126546387&linkCode=as2&tag=practperfoana-20&linkId=fc3a853e5cd83d1a2bc770a3ca74e7b4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=8126546387&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=practperfoana-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=practperfoana-20&l=am2&o=1&a=8126546387" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </td>
 <td>
-<a target="_blank"  href="https://www.amazon.com/gp/product/1555582605/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1555582605&linkCode=as2&tag=practperfoana-20&linkId=87452c04ebe2a8dffc5696db95a962e7"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1555582605&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=practperfoana-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=practperfoana-20&l=am2&o=1&a=1555582605" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/0321833821/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321833821&linkCode=as2&tag=practperfoana-20&linkId=e8972f8b8efbf9ef703784573a6bf583"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0321833821&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=practperfoana-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=practperfoana-20&l=am2&o=1&a=0321833821" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </td>
 </tr>
 
