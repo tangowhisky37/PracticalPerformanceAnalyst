@@ -44,15 +44,15 @@ The books listed on this page focus on the art of Performance Modelling & Foreca
 
 
 <tr>
-<td
+<td>
 <a target="_blank"  href="https://www.amazon.com/gp/product/0471491101/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0471491101&linkCode=as2&tag=practperfoana-20&linkId=53a4b9d244b9500098bf3e36b037a8f1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0471491101&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=practperfoana-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=practperfoana-20&l=am2&o=1&a=0471491101" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-></td>
+</td>
 <td>
 <a target="_blank"  href="https://www.amazon.com/gp/product/047149111X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=047149111X&linkCode=as2&tag=practperfoana-20&linkId=1877bf673e58589b62252a88778752ba"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=047149111X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=practperfoana-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=practperfoana-20&l=am2&o=1&a=047149111X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </td>
-<td
+<td>
 <a target="_blank"  href="https://www.amazon.com/gp/product/0471555681/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0471555681&linkCode=as2&tag=practperfoana-20&linkId=cd8266d8420845032931dfa8f9acdf06"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0471555681&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=practperfoana-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=practperfoana-20&l=am2&o=1&a=0471555681" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-></td>
+</td>
 </tr>
 
 
