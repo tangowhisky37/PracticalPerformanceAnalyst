@@ -9,7 +9,7 @@ This section will cover the basics of SPE (Systems Performance Engineering). The
 
 The various topics covered in this section are –
 
-* Systems Performance Engineering Fundamentals
+* [Systems Performance Engineering Fundamentals]({{ "/pages/spe_fundamentals/performance_engineering_101/" | absolute_url }})
   * [Performance Engineering 101]({{ "/pages/spe_fundamentals/performance_engineering_101/" | absolute_url }})
   * [Performance Requirements Analysis]({{ "/pages/spe_fundamentals/performance_requirements_analysis_101/" | absolute_url }})
   * [Workload Modelling]({{ "/pages/spe_fundamentals/workload_modelling_101/" | absolute_url }})
@@ -23,7 +23,7 @@ The next section covers definitions of basic quantities associated with Systems 
 
 The various topics covered in this section are –
 
-* Fundamental Performance Quantities, Concepts & Important Formulae
+* [Fundamental Performance Quantities, Concepts & Important Formulae]({{ "/pages/spe_fundamentals/important_formulae/" | absolute_url }})
   * [What is Response Time]({{ "/pages/spe_fundamentals/what_is_response_time/" | absolute_url }})
   * [What is Utilization]({{ "/pages/spe_fundamentals/what_is_utilization/" | absolute_url }})
   * [What is Throughput]({{ "/pages/spe_fundamentals/what_is_throughput/" | absolute_url }})
@@ -37,6 +37,7 @@ The various topics covered in this section are –
   * [What Is User Concurrency]({{ "/pages/spe_fundamentals/what_is_a_concurrent_user/" | absolute_url }})
   * [What Is Queueing Theory]({{ "/pages/spe_fundamentals/what_is_queuing_theory/" | absolute_url }})
   * [What Is Universal Scalability Law]({{ "/pages/spe_fundamentals/what_is_universal_scalability_law/" | absolute_url }})
+  * [Important SPE Formulae]({{ "/pages/spe_fundamentals/important_formulae/" | absolute_url }})
 
 Hope you’ve enjoyed the content in this section at Practical Performance Analyst and have learned something new. 
 
