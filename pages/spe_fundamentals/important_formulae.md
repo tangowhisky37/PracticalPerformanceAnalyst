@@ -3,29 +3,29 @@ layout: pagelayout
 title: Important SPE Fundamentals Formulae
 ---
 
-<span style="font-family: arial,helvetica,sans-serif; font-size: 12px;">As Performance Engineers we have to deal with numbers all the time. Whether you are validating results of a performance test, performing back of the envelope capacity plans or determining the overall service time for multi-tier application you need to understand the various Performance Engineering quantities and understand how to apply the various performance formulae. This page lists down all the relevant Performance Engineering formulae. This list will grow over time based on input from yourself and other readers.</span>
+As Performance Engineers we have to deal with numbers all the time. Whether you are validating results of a performance test, performing back of the envelope capacity plans or determining the overall service time for multi-tier application you need to understand the various Performance Engineering quantities and understand how to apply the various performance formulae. This page lists down all the relevant Performance Engineering formulae. This list will grow over time based on input from yourself and other readers.
 
-<span style="font-family: arial,helvetica,sans-serif; font-size: 12px;">Over a period of time I will be providing additional material on each of the topics and equations below aimed at simplifying understanding of each of the concepts. Please feel free to send in your input, feedback and comments.</span>
+Over a period of time I will be providing additional material on each of the topics and equations below aimed at simplifying understanding of each of the concepts. Please feel free to send in your input, feedback and comments.
 
-<span style="font-family: arial,helvetica,sans-serif; font-size: 12px;">Lets start by defining all the basic Performance Engineering related quantities and then look at some of the most useful formulae &#8211;</span>
+Lets start by defining all the basic Performance Engineering related quantities and then look at some of the most useful formulae &#8211;
 
   * <strong>Basic Performance Quantities :</strong> 
-    * Response Time or Rt - Elapsed time or the total time between submission of the request and receipt of the final response from the server.
-    * Time to First Byte or Buffer -  Time To First Buffer is the Elapsed Time between submission of the request and receipt of the first response from the server.
-    * Think Time or Zt - Elapsed time spent by the user between two successive actions (i.e. submit form, upload data, etc.)
-    * Service Time or St - Time spent by the server processing a given request. Generally tends to remain constant for a given transaction type.
-    * Service Demand or Dt - Service Demand is defined as the total Service Time requested by a given Entity (Request) from a particular System Component.
-    * Queuing Time or Qt - Time spent waiting in a queue for access to computing resources.
-    * Busy Time or Bt - The time duration for which the server resource i.e. cpu, mem, etc. was busy doing work.
-    * Wait Time or Wt [Same as Queuing Time] - Same as Queuing Time.
-    * Number of Completions or C - Transactional Completions is simply defined as the number of successful transactions that were processed within a given time period. Completions are denoted by C.
-    * Number of Arrivals or A - Transactional Arrivals are simply defined as the number of requests arriving at the server for processing. Transactional Arrivals are denoted by A.
-    * Queue Length or Q - The total number of requests waiting in the queue.
-    * Throughput or X - The total completions per unit time e.g. Transactions/Sec.
-    * Utilization or U - Ratio of Busy Time to Total Time of Observation.
-    * Average Number of Servers (CPUs, Cores, Threads) or M - M is used to designate the Average number of CPUâ€™s, Cores or Threads on a given Server.
-    * Number of Users within the System or User Concurrency N - The number of active or concurrent users performing a given action within a system is denoted by N.
-    * Littles Law - Little's Law states that the long-term average number of customers in a stable system <em>N</em> is equal to the long-term average effective arrival rate, <em>Î»</em>, multiplied by the average time a customer spends in the system, Rt.
+    * **Response Time or Rt** - Elapsed time or the total time between submission of the request and receipt of the final response from the server.
+    * **Time to First Byte or Buffer** -  Time To First Buffer is the Elapsed Time between submission of the request and receipt of the first response from the server.
+    * **Think Time or Zt** - Elapsed time spent by the user between two successive actions (i.e. submit form, upload data, etc.)
+    * **Service Time or St** - Time spent by the server processing a given request. Generally tends to remain constant for a given transaction type.
+    * **Service Demand or Dt** - Service Demand is defined as the total Service Time requested by a given Entity (Request) from a particular System Component.
+    * **Queuing Time or Qt** - Time spent waiting in a queue for access to computing resources.
+    * **Busy Time or Bt** - The time duration for which the server resource i.e. cpu, mem, etc. was busy doing work.
+    * **Wait Time or Wt [Same as Queuing Time]** - Same as Queuing Time.
+    * **Number of Completions or C** - Transactional Completions is simply defined as the number of successful transactions that were processed within a given time period. Completions are denoted by C.
+    * **Number of Arrivals or A** - Transactional Arrivals are simply defined as the number of requests arriving at the server for processing. Transactional Arrivals are denoted by A.
+    * **Queue Length or Q** - The total number of requests waiting in the queue.
+    * **Throughput or X** - The total completions per unit time e.g. Transactions/Sec.
+    * **Utilization or U** - Ratio of Busy Time to Total Time of Observation.
+    * **Average Number of Servers (CPUs, Cores, Threads) or M** - M is used to designate the Average number of CPUs, Cores or Threads on a given Server.
+    * **Number of Users within the System or User Concurrency N** - The number of active or concurrent users performing a given action within a system is denoted by N.
+    * **Littles Law** - Little's Law states that the long-term average number of customers in a stable system <em>N</em> is equal to the long-term average effective arrival rate, Lambda (L), multiplied by the average time a customer spends in the system, Rt.
 
   * <strong>Response Time - R(t) : </strong> 
     * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;">Rt <span id="docs-internal-guid-0abd79c7-3dd7-19da-6fc0-4a4dd38cc998" style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">= Wt + St</span> &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;. <span id="docs-internal-guid-0abd79c7-3dd7-19da-6fc0-4a4dd38cc998" style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">[ Wt = Wait Time, St = Service Time ]  <em><strong>also written as</strong></em></span></span>
@@ -36,14 +36,14 @@ title: Important SPE Fundamentals Formulae
     * <span id="docs-internal-guid-0abd79c7-3ddb-11af-5c93-7ca145764381" style="font-size: 11px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">X<sub>max</sub> <= 1 / St<sub>avg</sub> </span><span style="font-family: Calibri;">  &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;  </span> <span id="docs-internal-guid-0abd79c7-3ddb-11af-5c93-7ca145764381" style="font-size: 11px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"></span>[ <span style="font-family: Calibri;">X<sub>max</sub></span><span style="font-family: Calibri;">= M</span><span style="font-family: Calibri;">aximum Value of Throughput possible, St<sub>avg</sub> = Average Value of Service Time ]</span>
 
   * <strong>Utilization &#8211; U :</strong> 
-    * <span style="font-family: Calibri;">U = Bt / T </span><span style="font-family: Calibri;"> &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;. </span><span style="font-family: Calibri;">[ Bt = Busy Time, T = Total Observed Time Interval ]</span>
-    * <span style="font-family: Calibri;">U = X * St </span><span style="font-family: Calibri;"> &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;. </span><span style="font-family: Calibri;">[ X = Throughput, St = Service Time ]</span>
+    * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"> U = Bt / T </span><span style="font-family: Calibri;"> &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;. </span><span style="font-family: Calibri;">[ Bt = Busy Time, T = Total Observed Time Interval ]</span>
+    * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"> U = X * St </span><span style="font-family: Calibri;"> &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;. </span><span style="font-family: Calibri;">[ X = Throughput, St = Service Time ]</span>
     * <span id="docs-internal-guid-0abd79c7-3de5-fd25-faf1-e2af9af2bb67" style="font-size: 11px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">U<sub>avg</sub> =  [ X * St ] / M </span><span style="font-family: Calibri;">&#8230;&#8230;&#8230;&#8230;&#8230;.. </span><span style="font-family: Calibri;">[ U<sub>avg</sub> = Average Utilization, X = Throughput, St = Service Time, M = Average Number of Servers  ]</span>
 
   * <strong>Queue Length &#8211; Q :</strong> 
-    * <span style="font-family: Calibri;">Q = X * Qt </span><span style="font-family: Calibri;">  &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..  </span><span style="font-family: Calibri;">[ X = Throughput, Qt = Queuing Time ]</span>
+    * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"> Q = X * Qt </span><span style="font-family: Calibri;">  &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..  </span><span style="font-family: Calibri;">[ X = Throughput, Qt = Queuing Time ]</span>
 
-  * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"><strong>Service Time &#8211; S(t) : </strong></span> 
+  * <strong>Service Time &#8211; S(t) : </strong> 
     * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;">S = B / C  &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230; [ Bt = Busy Time, C = Completions ]</span>
 
   * <strong>Little&#8217;s Law : </strong> 
@@ -57,7 +57,7 @@ title: Important SPE Fundamentals Formulae
     * <span style="font-size: 12px;"><span id="docs-internal-guid-0abd79c7-3df8-f73c-9c5a-7082862f8fd2" style="font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Qt = R<sub>cpu</sub> &#8211; St</span><span style="font-family: Calibri;">&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;  </span><span style="font-family: Calibri;">[ R<sub>cpu</sub> = CPU Response Time, Qt = Queuing Time, St = Service Time ]</span><span id="docs-internal-guid-0abd79c7-3df8-db3e-f609-084666ca4f8d" style="font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">  </span></span>
     * <span style="font-size: 12px;"><span id="docs-internal-guid-0abd79c7-3df9-04f9-1b2d-a2de12592fbf" style="font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Q = X * Qt </span><span style="font-family: Calibri;">&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..</span><span style="font-family: Calibri;">[ Q = Queue Length, Qt = Queuing Time, St = Service Time ]</span></span>
 
-  * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"><strong>Erlang C Model for a CPU Sub System: </strong></span> 
+  * <strong>Erlang C Model for a CPU Sub System: </strong> 
     * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;">X<sub>q</sub> = X<sub>sys</sub> / Q<sub>n</sub> &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..[ X<sub>q</sub> = Arrival Rate at queue, X<sub>sys</sub> = System Arrival Rate or Total Arrival Rate, Q<sub>n</sub> = Number of Queues in the System (should be 1 for CPU systems)]</span>
     * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"><span style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">U<sub>avg</sub> = [ X<sub>q</sub> * St ] / M</span> &#8230;&#8230;&#8230;&#8230;&#8230;.[ X<sub>q</sub> = Arrival Rate at queue, St = Service Time, M = Number of Servers In the System, U<sub>avg</sub> = Average Utilization across CPU&#8217;s]</span>
     * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"><span style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">E<sub>c</sub> = ErlangC (M, St, X<sub>q</sub>) &#8230;&#8230;&#8230;..[ </span>X<sub>q</sub> = Arrival Rate at queue, St = Service Time, M = Number of Servers In the System <span style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">]</span></span>
@@ -66,7 +66,7 @@ title: Important SPE Fundamentals Formulae
     * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"><span style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Q = X<sub>q</sub> * Qt &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..[ </span>X<sub>q</sub> = Arrival Rate at queue, Qt = Queuing Time, Q = Queue Length ]</span>
     * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"><span style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">R<sub>cpu</sub> = Qt + St &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..[ </span><span style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">R<sub>cpu</sub> = CPU Response Time, </span>Qt = Queuing Time, St = Service Time ]</span>
 
-  * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"><strong>Erlang C Model for a IO Sub System:</strong></span> 
+  * <strong>Erlang C Model for a IO Sub System:</strong> 
     * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;">X<sub>q</sub> = X<sub>sys</sub> / Q<sub>n</sub> &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..[ X<sub>q</sub> = Arrival Rate at queue, X<sub>sys</sub> = System Arrival Rate or Total Arrival Rate, Q<sub>n</sub> = Number of Queues in the System]</span>
     * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"><span style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">U<sub>avg</sub> = [ X<sub>q</sub> * St ] / M</span> &#8230;&#8230;&#8230;&#8230;&#8230;.[ X<sub>q</sub> = Arrival Rate at queue, St = Service Time, M = Number of Servers In the System (Should be 1 for an IO Sub System), U<sub>avg</sub> = Average Utilization across CPU&#8217;s]</span>
     * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"><span style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">E<sub>c</sub> = ErlangC (M, St, X<sub>q</sub>) &#8230;&#8230;&#8230;..[ </span>X<sub>q</sub> = Arrival Rate at queue, St = Service Time, M = Number of Servers In the System (Should be 1 for an IO Sub System)<span style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">]</span></span>
@@ -75,7 +75,7 @@ title: Important SPE Fundamentals Formulae
     * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"><span style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Q = X<sub>q</sub> * Qt &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..[ </span>X<sub>q</sub> = Arrival Rate at queue, Qt = Queuing Time, Q = Queue Length ]</span>
     * <span style="font-family: arial,helvetica,sans-serif; font-size: 12px;"><span style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">R<sub>cpu</sub> = Qt + St &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..[ </span><span style="color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">R<sub>cpu</sub> = CPU Response Time, </span>Qt = Queuing Time, St = Service Time ]</span>
 
-<span style="font-family: arial,helvetica,sans-serif; font-size: 12px;">We appreciate your support in building the community of Practical Performance Analysts. We are looking for the bright spark and if you think you have what it takes to build and grow this community reach out to me over email at trevor at practicalperformanceanalyst dot com. We look forward to hearing from you.</span>
+We appreciate your support in building the community of Practical Performance Analysts. We are looking for the bright spark and if you think you have what it takes to build and grow this community reach out to me over email at trevor at practicalperformanceanalyst dot com. We look forward to hearing from you.
 
 
 ### Additional Resources
