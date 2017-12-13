@@ -25,6 +25,7 @@ Here's a list of the recommended reads from an SPE (Systems Performance Engineer
 * [Systems Monitoring & Alerting](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/systems_monitoring_and_alerting/)
 * [Scalable Architectures](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/scalable_architectures/)
 * [Network Performance Optimization](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/network_performance_optimization/)
+* [Fundamentals of Statistics](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_reads/basics_of_statistics/)
 
 We hope you enjoy the list of recommendations here and that these books help you gain the relevant knowledge you need to get the job done. 
 
