@@ -54,8 +54,8 @@ Based on what we have just covered you would expect a Performance Testing profes
 Systems Performance Engineering stresses the need to view Performance proactively throughout the software development phases right from the requirements phase until the operational phase. In this proactive mode -
 
 * A Performance Engineer is involved right from the initial requirements gathering phase ensuring that the relevant Non Functional Attributes are defined (has direct linkage to the expected business outcomes) appropriately,
-* To the design phase where the Performance Engineer works with the design team on selecting sensible design patterns for performance/scalability (based on the agreed Non Functional Requirements)
-* To the Performance Testing phase where the Performance Engineer is responsible for working with his team of Performance testers to put together the approach
+* At the design phase where the Performance Engineer works with the design team on selecting sensible design patterns for performance/scalability (based on the agreed Non Functional Requirements)
+* At the Performance Testing phase where the Performance Engineer is responsible for working with his team of Performance testers to put together the approach
 * Then execute based on the agreed approach
 * Finally onto the operational phase where the Performance Engineer is responsible for putting in place a relevant monitoring/management approach which could involve use of analytics solutions (Splunk) combined with APM (Application Performance Management) solutions to measure and report on system performance.
 
