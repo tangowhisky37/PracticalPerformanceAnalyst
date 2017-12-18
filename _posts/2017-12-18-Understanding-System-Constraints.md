@@ -142,16 +142,13 @@ Here's the script with the relevant parameters keyed into the script. To learn m
 >
 > pdq.Init("Grocery Store model") 
 >
-> # Create an open circuit Jackson network
 > streams = pdq.CreateOpen("Customers", arrivalRate)
 >
 > pdq.SetWUnit("Cust")
 > pdq.SetTUnit("Sec")     # timebase for PDQ report
 >
-> # M/M/m where m is the number of cashiers
 > nodes = pdq.CreateNode("Cashiers", cashiers, pdq.MSQ)
 >
-> # Set service times ...
 > pdq.SetDemand("Cashiers", "Customers", customerServiceTime)
 >
 > pdq.Solve(pdq.CANON)
