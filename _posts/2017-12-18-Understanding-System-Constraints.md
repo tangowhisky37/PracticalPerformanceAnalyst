@@ -126,10 +126,13 @@ Here's the script with the relevant parameters keyed into the script. To learn m
 > #!/usr/bin/python
 >
 > import pdq
+>
 > from math import *
 >
 > arrivalRate         = 0.25      # cust per sec
+>
 > customerServiceTime = 1         # second
+>
 > cashiers            = 1
 >
 > pdq.Init("Grocery Store model") 
@@ -137,6 +140,7 @@ Here's the script with the relevant parameters keyed into the script. To learn m
 > streams = pdq.CreateOpen("Customers", arrivalRate)
 >
 > pdq.SetWUnit("Cust")
+>
 > pdq.SetTUnit("Sec")     # timebase for PDQ report
 >
 > nodes = pdq.CreateNode("Cashiers", cashiers, pdq.MSQ)
@@ -144,6 +148,7 @@ Here's the script with the relevant parameters keyed into the script. To learn m
 > pdq.SetDemand("Cashiers", "Customers", customerServiceTime)
 >
 > pdq.Solve(pdq.CANON)
+>
 > pdq.Report()
 
 
