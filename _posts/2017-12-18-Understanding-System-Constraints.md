@@ -161,67 +161,7 @@ So save the Python script and make sure it has it's execute bit set (bash# chmod
 
 The result from executing the model is as follow - 
 
-
->                        PRETTY DAMN QUICK REPORT
->               ==========================================
->               ***  on   Mon Dec 18 04:43:02 2017     ***
->               ***  for  Grocery Store model          ***
->               ***  PDQ  Version 7.0.0 Build 052116   ***
->               ==========================================
->
->               ==========================================
->               ********    PDQ Model INPUTS      ********
->               ==========================================
->
-> WORKLOAD Parameters:
-> 
-> Node Sched Resource   Workload   Class     Demand
-> ---- ----- --------   --------   -----     ------
->  1  MSQ   Cashiers   Customers  Open     1.0000000000
->
-> Queueing Circuit Totals
-> Streams:   1
-> Nodes:     1
-> 
-> Arrivals       per Sec       Demand
-> --------       --------     -------
-> Customers      0.2500        1.0000
-> 
-> 
->                ==========================================
->                ********   PDQ Model OUTPUTS      ********
->                ==========================================
->
-> Solution Method: CANON
-> 
->                ********   SYSTEM Performance     ********
->
-> Metric                     Value    Unit
-> ------                     -----    ----
-> Workload: "Customers"
-> Number in system          0.3333    Cust
-> Mean throughput           0.2500    Cust/Sec
-> Response time             1.3333    Sec
-> Stretch factor            1.3333
-> 
-> Bounds Analysis:
-> Max throughput            1.0000    Cust/Sec
-> Min response              1.0000    Sec
-> 
->
->               ********   RESOURCE Performance   ********
-> 
-> Metric          Resource     Work              Value   Unit
-> ------          --------     ----              -----   ----
-> Capacity        Cashiers     Customers             1   Servers
-> Throughput      Cashiers     Customers        0.2500   Cust/Sec
-> In service      Cashiers     Customers        0.2500   Cust
-> Utilization     Cashiers     Customers       25.0000   Percent
-> Queue length    Cashiers     Customers        0.3333   Cust
-> Waiting line    Cashiers     Customers        0.0833   Cust
-> Waiting time    Cashiers     Customers        0.3333   Sec
-> Residence time  Cashiers     Customers        1.3333   Sec
-
+![Memoryless Single Server Queuing Model]({{ "/assets/img/memoryless_single_server_store_example.PNG" | absolute_url }})
 
 A review of the answers above suggest that they are very similar to the answers we've obtained using the fundamental equations. You can learn more about the fundamental equations [here](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/spe_fundamentals/). 
 
