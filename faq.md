@@ -2,7 +2,7 @@
 layout: pagelayout
 title: FAQ
 menu: true
-order: 21
+order: 20
 ---
 
 Practical Performance Analyst as a platform itself is an answer to a lot of the questions we’ve been asking ourselves for ages. The FAQ (Frequently Asked Questions) section will provide answers to a list of most frequently asked questions. If the questions here don’t cover the ground you are looking for please send us an email at trevor at practical performance analyst dot com and we’ll do our best to see how we can help:
